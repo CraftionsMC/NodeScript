@@ -1,0 +1,5 @@
+name: Nodescript
+version: ${project.version}
+main: net.craftions.nodescript.Nodescript
+api-version: 1.15
+authors: [ MCTzOCK ]
