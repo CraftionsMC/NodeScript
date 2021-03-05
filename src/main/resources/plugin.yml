@@ -3,3 +3,7 @@ version: ${project.version}
 main: net.craftions.nodescript.Nodescript
 api-version: 1.15
 authors: [ MCTzOCK ]
+commands:
+  node:
+    usage: /<command> "path/to/file.js"
+    permission: craftions.nodescript.command.node
